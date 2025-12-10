@@ -20,9 +20,9 @@ A mini project to learn the usage of user-defined functions in JavaScript.
   
   ├── temperature-converter/
    ├── project/
-    ├── temp.html           # Main file containing the webpage structure
     ├── scripts.js          # JS file to add functionality to the webpage
-    └── styles.css          # CSS file to add styling to the webpage
+    ├── styles.css          # CSS file to add styling to the webpage
+    └── temp.html           # Main file containing the webpage structure
     
   
 </pre>
