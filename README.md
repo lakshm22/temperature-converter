@@ -8,6 +8,14 @@ A mini project to learn the usage of user-defined functions in JavaScript.
 
 ----
 
+## Features
+- Convert temperatures between Celsius and Fahrenheit
+- Display the conversion result instantly
+- Reset input and output values with a button
+- Simple and user-friendly interface
+
+----
+
 ### Tech Stack ⚒️
 - `HTML5`
 - `CSS`
