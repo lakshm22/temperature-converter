@@ -1,7 +1,7 @@
 # Temperature Converter
 A simple temperature converter built using HTML, CSS and JavaScript.
 
----
+----
 
 ### Purpose?
 A mini project to learn the usage of user-defined functions in JavaScript.
@@ -21,7 +21,7 @@ A mini project to learn the usage of user-defined functions in JavaScript.
 - `CSS`
 - `JavaScript`
 
----
+----
 
 ### Project Structure
 <pre>
